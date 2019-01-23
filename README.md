@@ -14,13 +14,13 @@ The datasets used in the experiment:
    
 ```
 @inproceeding{  
-title={AFS: An Attention-based mechanism for Supervised Feature Selection},  
+  title     = {AFS: An Attention-based mechanism for Supervised Feature Selection},  
 
-author={Ning Gui, Danni Ge, Ziyin Hu},  
+  author    = {Ning Gui, Danni Ge, Ziyin Hu},  
 
-booktitle={Proceedings of the Thirty-Third {AAAI} Conference on Artificial Intelligence,  
-           January 27-February 1, 2019, Hilton Hawaiian Village, Honolulu, Hawaii, {USA.}},  
+  booktitle = {Proceedings of the Thirty-Third {AAAI} Conference on Artificial Intelligence,  
+             January 27-February 1, 2019, Hilton Hawaiian Village, Honolulu, Hawaii, {USA.}},  
 
-year={2019}  
+  year      = {2019}  
 }
 ```
