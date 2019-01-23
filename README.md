@@ -12,12 +12,15 @@ The datasets used in the experiment:
  python main.py  
 ```  
    
+```
 @inproceeding{  
 title={AFS: An Attention-based mechanism for Supervised Feature Selection},  
 
 author={Ning Gui, Danni Ge, Ziyin Hu},  
 
-booktitle={AAAI},  
+booktitle={Proceedings of the Thirty-Third {AAAI} Conference on Artificial Intelligence,  
+           January 27-February 1, 2019, Hilton Hawaiian Village, Honolulu, Hawaii, {USA.}},  
 
 year={2019}  
 }
+```
