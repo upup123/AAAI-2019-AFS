@@ -7,6 +7,15 @@ The datasets used in the experiment:
  * 1 http://yann.lecun.com/exdb/mnist/
  * 2 http://csc.lsu.edu/~saikat/n-mnist/
  * 3 http://featureselection.asu.edu  
+ 
+ 
+ ## About download
+ Because data is a large folder, which include three large files. So you can not download this folder directly. Please follow the instructions below to download data folder.  
+ 1.Click on the data folder.  
+ 
+ 2.Click on the file you want to download, such as mnist_rc.npz.  
+ 
+ 3.Click on 'download' in the top right corner.  
  ## Run an example
 ```
  python main.py  
